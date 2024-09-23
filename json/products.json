@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "Fields": {
+        "title": "Fikrskemekabir",
+        "price": 10.9,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/fikrskemekabir.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "Fields": {
+        "title": "Atomic Habits",
+        "price": 12.9,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/atomic.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "Fields": {
+        "title": "Cold Lack",
+        "price": 11.99,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/coldlack.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "Fields": {
+        "title": "Sememen",
+        "price": 13.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/sememen.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "Fields": {
+        "title": "I can't make this up",
+        "price": 13.49,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/IcantMakeThisUp.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "Fields": {
+        "title": "Neverland",
+        "price": 14.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/neverland.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "Fields": {
+        "title": "Midnight",
+        "price": 13.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/midnight.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "Fields": {
+        "title": "Rich Dad Poor Dad",
+        "price": 13.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/richdadpoordad.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "Fields": {
+        "title": "Ava reid",
+        "price": 16.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/books/avareid.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "Fields": {
+        "title": "Avator",
+        "price": 13.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/avator.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "Fields": {
+        "title": "Avengers",
+        "price": 20.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/avengers.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "Fields": {
+        "title": "Hidden Figures",
+        "price": 23.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/HiddenFigures.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "Fields": {
+        "title": "Lady bird",
+        "price": 17.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/ladybird.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "Fields": {
+        "title": "Little Women",
+        "price": 16.09,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/littleWomen.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "Fields": {
+        "title": "Pijamas",
+        "price": 13.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/pijamas.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "Fields": {
+        "title": "Poison",
+        "price": 18.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/Poison.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "Fields": {
+        "title": "Pursuit of Happyness",
+        "price": 19.59,
+        "image": {
+          "Fields": {
+            "file": { "url": "../images/movies/PursuitOfHappyness.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "Fields": {
+        "title": "Tom cruise",
+        "price": 21.59,
+        "image": {
+          "Fields": { "file": { "url": "../images/movies/tomcruise.jpg" } }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecommerce</title>
+    <link rel="stylesheet" href="../CSS/styles.css">
+</head>
+
+<body>
+    <nav class="navbar flex">
+        <img src="./menu.svg" alt="menu" class="icon menu">
+        <h2 class="navbar__title">ECommerce</h2>
+        <div class="cart__button">Cart<span class="badge badge--accent badge--round cart-items">0</span></div>
+    </nav>
+    <section class="hero hero--flex">
+        <div class="hero__body">
+            <h1 class="hero__heading">Product collections</h1>
+            <button class="btn btn--primary btn--block">Shop now</button>
+        </div>
+    </section>
+    <section class="container block products">
+        <header>
+            <h2 class="block__heading">Our Products</h2>
+        </header>
+        <section class="grid grid--1x2 grid--1x3 grid--auto-fit grid--auto-fill products-center">
+        </section>
+    </section>
+    <section class="container block cart-overlay">
+        <aside class="cart-plans">
+            <article class="cart">
+                <span class="close--cart">&times;</span>
+                <h3 class="cart__heading">Your cart</h3>
+                <div class="cart__content">
+                    <!-- <div class="cart__item grid grid--1x3">
+
+                    </div> -->
+                </div>
+                <div class="cart__total">
+                    <h3 class="cart__total-price">Your total: $ <span class="cart__price total__price">0.00</span></h3>
+                    <button class="btn btn--primary btn--block clear-cart">Clear Cart</button>
+                </div>
+            </article>
+        </aside>
+    </section>
+    <script type="module" src="../JS/index.js"></script>
+</body>
+
+</html>
